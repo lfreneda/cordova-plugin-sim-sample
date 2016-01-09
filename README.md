@@ -1,2 +1,2 @@
 # cordova-plugin-sim-sample
-running sample of https://github.com/pbakondy/cordova-plugin-sim
+https://github.com/pbakondy/cordova-plugin-sim running sample
