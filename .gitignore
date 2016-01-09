@@ -1,0 +1,7 @@
+node_modules/
+platforms/
+plugins/
+.idea/
+bower_components/
+www/lib/
+*.apk
